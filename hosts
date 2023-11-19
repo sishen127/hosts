@@ -3,17 +3,17 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/wjz304/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/wjz304/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2023-11-19 08:51:21
+# Update at: 2023-11-19 14:12:19
 # TMM Hosts Start
 18.66.122.3     themoviedb.org
-99.86.91.103    www.themoviedb.org
-52.85.151.18    api.themoviedb.org
-13.32.145.34    tmdb.org
-18.160.41.40    api.tmdb.org
-99.86.229.65    image.tmdb.org
-104.21.14.73    opensubtitles.org
-172.64.193.8    www.opensubtitles.org
-104.21.14.73    api.opensubtitles.org
+99.84.191.109   www.themoviedb.org
+52.85.151.48    api.themoviedb.org
+13.32.145.57    tmdb.org
+18.160.41.31    api.tmdb.org
+99.86.229.100   image.tmdb.org
+172.64.192.8    opensubtitles.org
+172.64.192.8    www.opensubtitles.org
+172.64.192.8    api.opensubtitles.org
 51.89.210.78    assets.fanart.tv
 # TMM Hosts End
 # ING Hosts End
