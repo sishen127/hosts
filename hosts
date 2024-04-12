@@ -1,17 +1,17 @@
 # ING Hosts Start
 # Raw Url: https://raw.githubusercontent.com/sishen127/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2024-04-12 20:17:43
+# Update at: 2024-04-13 02:10:50
 # TMM Hosts Start
-18.160.41.115   themoviedb.org
-18.160.41.115   www.themoviedb.org
-3.162.103.36    api.themoviedb.org
-99.86.229.123   tmdb.org
+18.160.41.129   themoviedb.org
+18.160.41.75    www.themoviedb.org
+52.85.151.48    api.themoviedb.org
+99.86.229.116   tmdb.org
 18.160.41.40    api.tmdb.org
-138.199.37.229  image.tmdb.org
+138.199.37.231  image.tmdb.org
 172.67.158.44   opensubtitles.org
-172.67.158.44   www.opensubtitles.org
-104.21.14.73    api.opensubtitles.org
+104.21.14.73    www.opensubtitles.org
+172.67.158.44   api.opensubtitles.org
 192.99.151.161  assets.fanart.tv
 # TMM Hosts End
 # ING Hosts End
